@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on JavaScript, TypeScript, Angular
+- 🌱 I’m currently learning Angular
+- 💬 Ask me about PC Hardware, Cars and Guitars
+- 📫 How to reach me: tzacharias.97@gmail.com
 <!--
 **TarunZach/TarunZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
