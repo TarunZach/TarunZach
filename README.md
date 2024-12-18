@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript, TypeScript, Angular, NextJs
-- 🌱 I’m currently learning NextJs
+- 🔭 I’m currently working on JavaScript, TypeScript, NextJs
+- 🌱 I’m currently learning AUTOSAR and Automation using Python
 - 💬 Ask me about PC Hardware, Cars and Guitars
-- 📫 How to reach me: tzacharias.97@gmail.com
+- 📫 How to reach me: tarunz.atwork@gmail.com
 <!--
 **TarunZach/TarunZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
