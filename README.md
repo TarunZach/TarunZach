@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript, TypeScript, NextJs
-- 🌱 I’m currently learning AUTOSAR and Automation using Python
+- 🌱 I’m currently learning C,C# and Automation using Python and Jenkins
 - 💬 Ask me about PC Hardware, Cars and Guitars
 - 📫 How to reach me: tarunz.atwork@gmail.com
 <!--
