@@ -13,7 +13,7 @@
 #### Cloud and Database
 [![My Skills](https://skillicons.dev/icons?i=aws,mongodb,firebase,supabase,mysql)](https://skillicons.dev)
 #### Testing,DevOps & Misc
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,jenkins,postman)](https://skillicons.dev)
 <!--
 **TarunZach/TarunZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
